@@ -1,3 +1,3 @@
 # Reinforcement-Learning
 
-Temporal Difference Learning Algorithmus , verbunden mit Künstlichen Neuronalen Netzen, für das Spiel TicTacToe als Proof of Concept.
+Temporal Difference Learning Algorithm with neural network, for the game TicTacToe as Proof of Concept. Documentation follows soon.
