@@ -1,0 +1,10 @@
+﻿  Game.cpp
+c:\users\bashx\documents\repos\tictactoe\tictactoe\game.cpp(5): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+  main.cpp
+  RF-Agent.cpp
+c:\users\bashx\documents\repos\tictactoe\tictactoe\rf-agent.cpp(5): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+c:\users\bashx\documents\repos\tictactoe\tictactoe\rf-agent.cpp(194): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  Code wird generiert...
+c:\users\bashx\documents\repos\tictactoe\tictactoe\rf-agent.cpp(104): warning C4715: "RfAgent::checkLoosing": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\bashx\documents\repos\tictactoe\tictactoe\rf-agent.cpp(188): warning C4715: "RfAgent::checkWin": Nicht alle Codepfade geben einen Wert zurück.
+  TicTacToe.vcxproj -> C:\Users\bashx\Documents\repos\TicTacToe\Debug\TicTacToe.exe
