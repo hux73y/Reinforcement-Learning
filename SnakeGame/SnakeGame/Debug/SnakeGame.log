@@ -1,0 +1,50 @@
+﻿  Game.cpp
+  main.cpp
+  Snake.cpp
+c:\users\bashx\documents\repos\snakegame\snakegame\snake.cpp(6): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+c:\users\bashx\documents\repos\snakegame\snakegame\snake.cpp(179): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\bashx\documents\repos\snakegame\snakegame\snake.cpp(185): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Textbox.cpp
+c:\users\bashx\documents\repos\snakegame\snakegame\textbox.cpp(31): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+  Window.cpp
+  World.cpp
+c:\users\bashx\documents\repos\snakegame\snakegame\world.cpp(10): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+c:\users\bashx\documents\repos\snakegame\snakegame\world.cpp(16): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+c:\users\bashx\documents\repos\snakegame\snakegame\world.cpp(16): warning C4244: "Argument": Konvertierung von "T" in "T", möglicher Datenverlust
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\bashx\documents\repos\snakegame\snakegame\world.cpp(18): warning C4244: "Argument": Konvertierung von "T" in "T", möglicher Datenverlust
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\bashx\documents\repos\snakegame\snakegame\world.cpp(18): warning C4244: "Argument": Konvertierung von "int" in "T", möglicher Datenverlust
+          with
+          [
+              T=float
+          ]
+c:\users\bashx\documents\repos\snakegame\snakegame\world.cpp(38): warning C4244: "Argument": Konvertierung von "int" in "float", möglicher Datenverlust
+  Code wird generiert...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: Modul-Computertyp "x64" steht in Konflikt mit dem Zielcomputertyp "x86".
