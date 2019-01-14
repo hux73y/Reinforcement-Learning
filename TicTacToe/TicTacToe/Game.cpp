@@ -14,12 +14,6 @@ void Game::update()
 	window.update(); // update window events
 	if (world.checkIfWon())
 	{
-		/*
-		if (world.getWinner() == 1)
-			//agent.takeReward(0.0);
-		else
-			//agent.takeReward(1.0);
-			*/
 			clock.restart();
 			while (clock.getElapsedTime().asSeconds() < 1.0f)
 			{
@@ -29,7 +23,6 @@ void Game::update()
 	}
 	else if (round == 9)
 	{
-		//agent.takeReward(0.5);
 		clock.restart();
 		while (clock.getElapsedTime().asSeconds() < 1.0f)
 		{
